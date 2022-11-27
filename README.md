@@ -29,8 +29,8 @@ docker run --name clean-architecture-db -e POSTGRES_PASSWORD=docker -p 5432:5432
 run migration
 
 ```bash
-npm run typeorm:generate:win -n init
-npm run typeorm:run:win
+npm run typeorm:generate-migration
+npm run typeorm:run-migrations
 ```
 
 ## Running the app
