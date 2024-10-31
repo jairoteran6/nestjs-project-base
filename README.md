@@ -8,6 +8,11 @@
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
     <p align="center">
 
+## Proyecto Guia
+
+[Nest Clean Architecture](https://medium.com/@jonathan.pretre91/clean-architecture-with-nestjs-e089cef65045)
+
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
